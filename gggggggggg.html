@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="modal fade" id="orderMedicalSuppliesModal" tabindex="-1" aria-labelledby="orderMedicalSuppliesLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="orderMedicalSuppliesLabel">Order Medical Supplies</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="orderMedicalSuppliesForm">
+                        <!-- Name Field -->
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Name</label>
+                            <input type="text" class="form-control" id="name" required>
+                        </div>
+                        <!-- Address Field -->
+                        <div class="mb-3">
+                            <label for="address" class="form-label">Address</label>
+                            <input type="text" class="form-control" id="address" required>
+                        </div>
+                        <!-- Prescription Field -->
+                        <div class="mb-3">
+                            <label for="prescription" class="form-label">Prescription</label>
+                            <textarea class="form-control" id="prescription" rows="3" required></textarea>
+                        </div>
+                        <!-- Time Field -->
+                        <div class="mb-3">
+                            <label for="time" class="form-label">Time</label>
+                            <input type="datetime-local" class="form-control" id="time" required>
+                        </div>
+                        <!-- Prescription PDF Upload Field -->
+                        <div class="mb-3">
+                            <label for="prescriptionFile" class="form-label">Upload Prescription (PDF)</label>
+                            <input type="file" class="form-control" id="prescriptionFile" accept=".pdf">
+                        </div>
+                        <!-- Modal Footer -->
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-primary">Submit Order</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+      // Example submission handler for the form (customize as needed)
+      document.getElementById('orderMedicalSuppliesForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        // Implement your form submission logic here
+        console.log("Form Submitted");
+      });
+    
+      // Trigger modal when "Order Medical Supplies" is checked
+      document.querySelector('input[value="Order Medical Supplies"]').addEventListener('change', function() {
+        if (this.checked) {
+            var modal = new bootstrap.Modal(document.getElementById('orderMedicalSuppliesModal'));
+            modal.show();
+        }
+      });
+    </script>
+</body>
+</html>

@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mediplus - Free Bootstrap 4 Template by Colorlib</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+    <div class="py-1 bg-black top">
+      <div class="container">
+        <div class="row no-gutters d-flex align-items-start align-items-center px-md-0">
+          <div class="col-lg-12 d-block">
+            <div class="row d-flex">
+              <div class="col-md pr-4 d-flex topper align-items-center">
+                <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
+                <span class="text">+9627777777</span>
+              </div>
+              <div class="col-md pr-4 d-flex topper align-items-center">
+                <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+                <span class="text">MedicaRoute@gmail.com</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target" id="ftco-navbar">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">MedicaRoute</a>
+        <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="oi oi-menu"></span> Menu
+        </button>
+        <div class="collapse navbar-collapse" id="ftco-nav">
+          <ul class="navbar-nav nav ml-auto">
+            <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+            <li class="nav-item"><a href="Services.html" class="nav-link"><span>Services</span></a></li>
+            <li class="nav-item"><a href="#doctor-section" class="nav-link"><span>Doctors</span></a></li>
+            <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+            <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+            <li class="nav-item cta mr-md-2"><a href="appointment.html" class="nav-link">Appointment</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-end justify-content-start">
+          <div class="col-md-9 ftco-animate pb-4">
+            <h1 class="mb-3 bread">Booking</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Booking <i class="ion-ios-arrow-forward"></i></span></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="col-md-5 d-flex">
+      <div class="appointment-wrap bg-white p-5 d-flex align-items-center">
+        <form action="#" class="appointment-form ftco-animate">
+          <div class="">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="First Name">
+            </div>
+          </div>
+          <div class="">
+            <div class="form-group"></div>
+          </div>
+          <div class="">
+            <div class="form-group">
+              <div class="input-wrap">
+                <!-- <div class="icon"><span class="ion-md-calendar"></span></div> -->
+                <input type="date" class="form-control appointment_date" placeholder="Date">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="input-wrap">
+                <!-- <div class="icon"><span class="ion-ios-clock"></span></div> -->
+                <input type="time" class="form-control appointment_time" placeholder="Time">
+              </div>
+            </div>
+          </div>
+          <div class="">
+            <div class="form-group">
+              <select id="doctorDropdown" class="form-control">
+                <option value="">Select a Doctor</option>
+                <!-- Doctor options will be dynamically added here -->
+              </select>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="btn btn-secondary py-3 px-4" onclick="bookAppointment()">Appointment</button>
+            </div>
+          </div>
+          
+        </form>
+      </div>
+    </div>
+    <section class="ftco-section bg-light">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-10 heading-section text-center ftco-animate">
+            <h2 class="mb-4">Get the Latest Healthcare Updates</h2>
+            <p>At MedicaRoute, we provide essential healthcare services right at your fingertips. Stay informed about the latest health tips, virtual consultations, and medication delivery options. Simple, fast, and always available when you need it most.</p>
+          </div>
+        </div>
+        <div class="row d-flex">
+          <!-- Blog Entry 1 -->
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');"></a>
+              <div class="text d-block">
+                <div class="meta mb-3">
+                  <div><a href="#">June 9, 2024</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">MedicaRoute</a></h3>
+                <p>In the peaceful world of MedicaRoute, healthcare is just a click away. Here, patients easily find doctors, get virtual consultations, and have their medicines delivered to their doorstep. Simple, fast, and always there when you need.</p>
+                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+              </div>
+            </div>
+          </div>
+          <!-- Blog Entry 2 -->
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');"></a>
+              <div class="text d-block">
+                <div class="meta mb-3">
+                  <div><a href="#">June 9, 2019</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">How to Maintain a Healthy Lifestyle</a></h3>
+                <p>Discover practical tips to maintain a healthy lifestyle, from regular exercise to balanced diets. Let us guide you through easy steps to boost your overall well-being.</p>
+                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+              </div>
+            </div>
+          </div>
+          <!-- Blog Entry 3 -->
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');"></a>
+              <div class="text d-block">
+                <div class="meta mb-3">
+                  <div><a href="#">June 9, 2019</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Benefits of Virtual Consultations</a></h3>
+                <p>Explore how virtual consultations can save you time and provide access to medical care from the comfort of your home.</p>
+                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="ftco-footer ftco-section img" style="background-image: url(images/footer-bg.jpg);">
+      <div class="overlay"></div>
+      <div class="container-fluid px-md-5">
+        <div class="row mb-5">
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">MedicaRoute</h2>
+              <p>In the peaceful world of MedicaRoute, healthcare is just a click away. Here, patients easily find doctors, get virtual consultations, and have their medicines delivered to their doorstep. Simple, fast, and always there when you need it.</p>
+              <ul class="ftco-footer-social list-unstyled mt-5">
+                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Doctors</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Blog</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Pricing</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Services</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Doctor & Hospital Search Service</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Health Reminders & Alerts</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Outdoor Checkup & Home Care</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Medication Delivery Services</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Have a Questions?</h2>
+              <div class="block-23 mb-3">
+                <ul>
+                  <li><span class="icon icon-map-marker"></span><span class="text">Jordan - Amman</span></li>
+                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+9627777777</span></a></li>
+                  <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">MedicaRoute@gmail.com</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p>
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | MedicaRoute
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <div id="ftco-loader" class="show fullscreen">
+      <svg class="circular" width="48px" height="48px">
+        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
+        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/>
+      </svg>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/scrollax.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+
+        // Ensure the script runs after the DOM is fully loaded
+        document.querySelector(".appointment-form").addEventListener("submit", function(event) {
+          debugger
+          event.preventDefault(); // Prevent the default form submission
+    
+          // Retrieve the userId from local storage
+          const userId = localStorage.getItem("UserId");
+    
+          // Collect form data
+          const doctorId = document.getElementById("doctorDropdown").value; // Use dropdown for doctor selection
+          const visitDate = document.querySelector(".appointment_date").value;
+          const visitTime = document.querySelector(".appointment_time").value;
+    
+          // Check if userId is available
+          if (!userId) {
+            Swal.fire({
+              title: "Error!",
+              text: "User ID not found. Please log in again.",
+              icon: "error",
+              confirmButtonText: "OK"
+            });
+            return;
+          }
+    
+          // Construct the data object
+          const data = {
+            UserId: userId,
+            DoctorId: doctorId,
+            VisitDate: visitDate,
+            VisitTime: visitTime
+          };
+          console.log(data, "data");
+    
+          var form = new FormData();
+          form.append("UserId", data.UserId);
+          form.append("DoctorId", data.DoctorId ? data.DoctorId : null);
+          form.append("VisitDate", data.VisitDate);
+          form.append("VisitTime", data.VisitTime);
+    
+          // Send a POST request to the API endpoint
+          fetch("https://localhost:44352/api/HomeVisits", {
+            method: "POST",
+            body: form
+          })
+          .then(response => response.json())
+          .then(result => {
+            // Show success alert using SweetAlert
+            Swal.fire({
+              title: "Success!",
+              text: "Home visit has been successfully requested.",
+              icon: "success",
+              confirmButtonText: "OK"
+            });
+          })
+          .catch(error => {
+            // Show error alert if something goes wrong
+            Swal.fire({
+              title: "Error!",
+              text: "There was an error requesting the home visit.",
+              icon: "error",
+              confirmButtonText: "Try Again"
+            });
+            console.error("Error:", error);
+          });
+        });
+    
+        // Call the function to fetch doctors and populate the dropdown
+        fetchDoctors();
+    
+        // Function to fetch doctors and populate the dropdown
+        function fetchDoctors() {
+          fetch("https://localhost:44352/api/Doctors") // Update the URL as needed
+            .then(response => response.json())
+            .then(doctors => {
+              const doctorDropdown = document.getElementById("doctorDropdown");
+              doctorDropdown.innerHTML = '<option value="">Select a Doctor</option>'; // Clear previous options
+    
+              doctors.forEach(doctor => {
+                const option = document.createElement("option");
+                option.value = doctor.doctorId; // Use doctor ID as the value
+                option.textContent = doctor.fullName; // Display doctor name
+                doctorDropdown.appendChild(option);
+              });
+            })
+            .catch(error => {
+              console.error("Error fetching doctors:", error);
+            });
+        }
+      });
+    </script>
+    
+  </body>
+</html>

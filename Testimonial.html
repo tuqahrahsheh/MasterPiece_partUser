@@ -1,0 +1,494 @@
+ <!-- Testimonial Start -->
+ 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedicaRoute</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /* Testimonial Section */
+.testimonial-carousel {
+  margin-top: 2rem;
+}
+
+.testimonial-item {
+  background: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.testimonial-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.testimonial-item img {
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.testimonial-item .text-primary {
+  color: #0a3cff;
+  font-weight: bold;
+}
+
+.testimonial-item small {
+  color: #555;
+}
+
+.testimonial-item p {
+  color: #777;
+  font-style: italic;
+}
+
+/* Testimonial Form */
+textarea#testimonialtext {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  color: #555;
+}
+
+button.btn-primary {
+  background-color: #0a3cff;
+  border: none;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+button.btn-primary:hover {
+  background-color: #0940e8;
+  transform: translateY(-2px);
+}
+
+/* Footer Section */
+.ftco-footer {
+  background: #222;
+  color: #fff;
+  padding: 3rem 0;
+}
+
+.ftco-footer .ftco-heading-2 {
+  font-size: 24px;
+  color: #0a3cff;
+}
+
+.ftco-footer a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.ftco-footer a:hover {
+  color: #0a3cff;
+}
+
+.ftco-footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.ftco-footer ul li {
+  margin-bottom: 10px;
+}
+
+.ftco-footer ul li a {
+  color: #bbb;
+}
+
+.ftco-footer ul li a:hover {
+  color: #0a3cff;
+}
+
+.ftco-footer .icon {
+  margin-right: 10px;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+/* Loader */
+#ftco-loader {
+  background: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#ftco-loader .circular {
+  animation: rotate 2s linear infinite;
+  height: 48px;
+  width: 48px;
+}
+
+#ftco-loader .path {
+  stroke: #F96D00;
+  stroke-linecap: round;
+  animation: dash 1.5s ease-in-out infinite;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}
+
+    </style>
+</head>
+ 
+ 
+ <body>
+    <div class="py-1 bg-black top">
+        <div class="container">
+          <div class="row no-gutters d-flex align-items-start align-items-center px-md-0">
+            <div class="col-lg-12 d-block">
+              <div class="row d-flex">
+                <div class="col-md pr-4 d-flex topper align-items-center">
+                  <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
+                  <span class="text">+962777777777</span>
+                </div>
+                <div class="col-md pr-4 d-flex topper align-items-center">
+                  <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+                  <span class="text">MedicaRoute@gmail.com</span>
+                </div>
+                <div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right justify-content-end">
+                  <p class="mb-0 register-link"><a href="SignUp.html" class="mr-3">Sign Up</a><a href="SignIn.html">Sign In</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target" id="ftco-navbar">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">MedicaRoute</a>
+          <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="oi oi-menu"></span> Menu
+          </button>
+  
+          <div class="collapse navbar-collapse" id="ftco-nav">
+            <ul class="navbar-nav nav ml-auto">
+              <li class="nav-item"><a href="index.html" class="nav-link"><span>Home</span></a></li>
+              <li class="nav-item"><a href="Services.html" class="nav-link"><span>Services</span></a></li>
+              <li class="nav-item"><a href="Doctors.html" class="nav-link"><span>Doctors</span></a></li>
+              <li class="nav-item"><a href="about.html" class="nav-link"><span>About</span></a></li>
+              <li class="nav-item"><a href="contact.html" class="nav-link"><span>Contact Us</span></a></li>
+              <li class="nav-item cta mr-md-2"><a href="appointment.html" class="nav-link">Appointment</a></li>
+              <li class="nav-item cta mr-md-2"><a href="Profile.html" class="nav-link">Profile </a></li>
+  
+            </ul>
+          </div>
+        </div>
+      </nav>
+  <br><br>
+ <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container py-5">
+      <div
+        class="section-title text-center position-relative pb-3 mb-4 mx-auto"
+        style="max-width: 600px"
+      >
+        <h5 class="fw-bold text-primary text-uppercase">Testimonial</h5>
+        <h1 class="mb-0">What Our Clients Say About Our Digital Services</h1>
+      </div>
+
+      <div
+        class="owl-carousel testimonial-carousel wow fadeInUp"id="testimonials"data-wow-delay="0.6s">
+        <!-- <div class="testimonial-item bg-light my-4">
+                  <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                      <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
+                      <div class="ps-4">
+                          <h4 class="text-primary mb-1">Client Name</h4>
+                          <small class="text-uppercase">Profession</small>
+                      </div>
+                  </div>
+                  <div class="pt-4 pb-5 px-5">
+                      Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                  </div>
+              </div> -->
+      </div>
+    </div>
+  </div>
+  <!-- Testimonial End -->
+  <!-- Testimonial Submission Form -->
+  <div class="container-xxl py-5">
+    <div class="container">
+      <div
+        class="text-center mx-auto wow fadeInUp"
+        data-wow-delay="0.1s"
+        style="max-width: 600px"
+      >
+        <h2 class="display-6 mb-4">Submit Your Testimonial</h2>
+      </div>
+      <form class="wow fadeInUp" data-wow-delay="0.1s">
+        <div class="row g-3">
+          <div class="col-12">
+            <textarea
+              class="form-control"
+              id="testimonialtext"
+              name="message"
+              rows="5"
+              placeholder="Your Testimonial"
+              required
+            ></textarea>
+          </div>
+          <div class="col-12 text-center">
+            <button
+              type="button"
+              onclick="Addtestimonial()"
+              class="btn btn-primary py-3 px-5"
+            >
+              Submit
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Testimonial End -->
+
+  <footer class="ftco-footer ftco-section img" style="background-image: url(images/footer-bg.jpg);">
+    <div class="overlay"></div>
+  <div class="container-fluid px-md-5">
+    <div class="row mb-5">
+      <div class="col-md">
+        <div class="ftco-footer-widget mb-4">
+          <h2 class="ftco-heading-2">Mediplus</h2>
+          <p>In the peaceful world of MedicaRoute, healthcare is just a click away. Here, patients easily find doctors, get virtual consultations, and have their medicines delivered to their doorstep. Simple, fast, and always there when you need it.</p>
+          <ul class="ftco-footer-social list-unstyled mt-5">
+            <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+            <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+            <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md">
+        <div class="ftco-footer-widget mb-4 ml-md-4">
+          <h2 class="ftco-heading-2">Links</h2>
+          <ul class="list-unstyled">
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+            <!-- <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Departments</a></li> -->
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Doctors</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Blog</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Pricing</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md">
+         <div class="ftco-footer-widget mb-4">
+          <h2 class="ftco-heading-2">Services</h2>
+          <ul class="list-unstyled">
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Medication and medical supplies delivery service</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Outdoor Checkup & Home Care</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Health Reminders & Alerts</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Doctor & hospital search service</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md">
+        <div class="ftco-footer-widget mb-4">
+            <h2 class="ftco-heading-2">Have a Questions?</h2>
+            <div class="block-23 mb-3">
+              <ul> 
+                <li><span class="icon icon-map-marker"></span><span class="text">Jordan - Amman </span></li>
+                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+962777777</span></a></li>
+                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">	MedicaRoute@gmail.com</span></a></li>
+              </ul>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center">
+
+        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | MedicaRoute <i class="icon-heart color-danger" aria-hidden="true"></i><a href="https://colorlib.com" target="_blank"></a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+<!-- loader -->
+<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery-migrate-3.0.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.stellar.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/jquery.animateNumber.min.js"></script>
+<script src="js/scrollax.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+<script src="js/google-map.js"></script>
+
+<script src="js/main.js"></script>
+<script>
+    // Creates a new testimonial
+async function Addtestimonial() {
+  event.preventDefault();
+  let user = localStorage.getItem("UserId");
+  if (user == null || user == undefined) {
+    await Swal.fire({
+      icon: "warning",
+      title: "Login Required",
+      text: "You need to be logged in to submit a testimonial.",
+    });
+    return;
+  }
+
+  let message = document.getElementById("testimonialtext").value;
+  let url = `https://localhost:44352/api/Feedback/AddTestimonial/${user}`;
+  let data = { theTestimonials: message };
+
+  let response = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(data),
+  });
+
+  if (response.ok) {
+    await Swal.fire({
+      icon: "success",
+      title: "Success!",
+      text: "Testimonial submitted successfully. We are happy to see your testimonial.",
+    });
+    document.getElementById("testimonialtext").value = "";
+  } else {
+    await Swal.fire({
+      icon: "error",
+      title: "Submission Failed",
+      text: "Failed to submit the testimonial.",
+    });
+  }
+}
+
+async function gettestimonial() {
+  let testimonials = document.getElementById("testimonials");
+  let url = "https://localhost:7072/api/User/GetAllAcceptedTestimonial";
+
+  try {
+    let response = await fetch(url);
+    let data = await response.json();
+
+    testimonials.innerHTML = "";
+    data.forEach((item) => {
+      testimonials.innerHTML += `
+        <div class="testimonial-item bg-light my-4 mx-2 p-4 rounded shadow">
+          <div class="d-flex align-items-center border-bottom pt-3 pb-3">
+            <img class="img-fluid rounded-circle me-3" 
+              src="https://static.vecteezy.com/system/resources/thumbnails/009/292/244/small/default-avatar-icon-of-social-media-user-vector.jpg" 
+              style="width: 60px; height: 60px;">
+            <div>
+              <h5 class="text-primary mb-1">${item.username}</h5>
+              <small class="text-muted">${item.email}</small>
+            </div>
+          </div>
+          <div class="pt-3">
+            <p class="mb-0">${item.theTestimonials}</p>
+          </div>
+        </div>
+      `;
+    });
+
+    $(".testimonial-carousel").owlCarousel("destroy");
+    initializeOwlCarousel();
+  } catch (error) {
+    console.error("Error fetching testimonials:", error);
+  }
+}
+
+function initializeOwlCarousel() {
+  $(".testimonial-carousel").owlCarousel({
+    autoplay: true,
+    smartSpeed: 1000,
+    center: true,
+    dots: false,
+    loop: true,
+    nav: true,
+    navText: [
+      '<i class="bi bi-arrow-left-circle-fill"></i>',
+      '<i class="bi bi-arrow-right-circle-fill"></i>',
+    ],
+    responsive: {
+      0: {
+        items: 1,
+      },
+      768: {
+        items: 2,
+      },
+      1024: {
+        items: 3,
+      },
+    },
+  });
+}
+
+gettestimonial();
+</script>
+
+</body>
+</html>
