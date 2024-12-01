@@ -1,0 +1,916 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MasterPeace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\homevisitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\homevisitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\homevisitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\homevisitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\medicalsupplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\medicalsupplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\addtestimonialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\addtestimonialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\getalltestimonialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\getalltestimonialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\getaccepttestimonialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\getaccepttestimonialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\medicalsuppliesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\medicalsuppliesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\doctorrequestdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\doctorrequestdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\medicationdeliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\medicationdeliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\medicalsuppliesrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\medicalsuppliesrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\adminorderhistiryordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\adminorderhistiryordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\adminreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\adminreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\wwwroot\\uploads\\02f011ac-a268-40bd-b657-e471c4f45765_image (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\wwwroot\\uploads\\02f011ac-a268-40bd-b657-e471c4f45765_image (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\creditcardpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\creditcardpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\serviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\serviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\userprofiledtouserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\userprofiledtouserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\doctorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\doctorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\contactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\contactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\homevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\homevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\models\\homedoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\models\\homedoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\medicationdelevarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\medicationdelevarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\controllers\\homedoctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\controllers\\homedoctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\hospitalsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\hospitalsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|c:\\users\\orange\\desktop\\masterpeace\\masterpeace\\dtos\\homedoctordtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476F33DA-7D60-49CE-8B8B-DCBD32B2E6C3}|MasterPeace\\MasterPeace.csproj|solutionrelative:masterpeace\\dtos\\homedoctordtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\appsettings.json",
+              "RelativeDocumentMoniker": "MasterPeace\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\appsettings.json",
+              "RelativeToolTip": "MasterPeace\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T06:44:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:32:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalSupplies.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\MedicalSupplies.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\MedicalSupplies.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\MedicalSupplies.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\MedicalSupplies.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:36:51.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Testimonial.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Testimonial.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\Testimonial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:51:18.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:26:18.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeVisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\HomeVisitsController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\HomeVisitsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\HomeVisitsController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\HomeVisitsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAtwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:51:02.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVisitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\HomeVisitDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\HomeVisitDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\HomeVisitDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\HomeVisitDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:45:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAowIEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:38:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddtestimonialDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AddtestimonialDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\AddtestimonialDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AddtestimonialDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\AddtestimonialDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:41:18.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAcceptTestimonialDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\GetAcceptTestimonialDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\GetAcceptTestimonialDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\GetAcceptTestimonialDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\GetAcceptTestimonialDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:53:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllTestimonialsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\GetAllTestimonialsDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\GetAllTestimonialsDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\GetAllTestimonialsDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\GetAllTestimonialsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:53:49.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicalSuppliesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\MedicalSuppliesRequest.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\MedicalSuppliesRequest.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\MedicalSuppliesRequest.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\MedicalSuppliesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:15:18.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:56:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\Payments.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\Payments.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\Payments.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\Payments.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwDQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:28:57.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAYwLQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:23:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Program.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Program.cs",
+              "RelativeToolTip": "MasterPeace\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:43:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\DoctorRequest.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\DoctorRequest.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\DoctorRequest.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\DoctorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:50:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MedicationDeliveryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\MedicationDeliveryController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\MedicationDeliveryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\MedicationDeliveryController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\MedicationDeliveryController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:53:24.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorRequestDTO2.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\DoctorRequestDTO2.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\DoctorRequestDTO2.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\DoctorRequestDTO2.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\DoctorRequestDTO2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:49:05.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHgAAAAgMzMzMxM2wIAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:42:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Service.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:39:23.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\User.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBQwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:25:46.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HomeVisit.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\HomeVisit.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\HomeVisit.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\HomeVisit.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\HomeVisit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:43:46.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\HomeDoctor.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\HomeDoctor.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\HomeDoctor.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\HomeDoctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:06:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MedicationDelevaryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\MedicationDelevaryDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\MedicationDelevaryDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\MedicationDelevaryDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\MedicationDelevaryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:46:03.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\HospitalsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:46:20.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AppointmentRequestDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\AppointmentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AppointmentRequestDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\AppointmentRequestDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:38:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeDoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\HomeDoctorsController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\HomeDoctorsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\HomeDoctorsController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\HomeDoctorsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:49:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HospitalsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\HospitalsDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\HospitalsDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\HospitalsDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\HospitalsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:20:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeDoctorDTORequest.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\HomeDoctorDTORequest.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\HomeDoctorDTORequest.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\HomeDoctorDTORequest.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\HomeDoctorDTORequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:07:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MedicalSuppliesRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\MedicalSuppliesRequestDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\MedicalSuppliesRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\MedicalSuppliesRequestDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\MedicalSuppliesRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:36:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:39:39.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:56:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "MasterPeace\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowE8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:23:26.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\PaymentRequestDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\PaymentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\PaymentRequestDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\PaymentRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:13:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Payment.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:43:25.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminOrderHistiryOrdersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AdminOrderHistiryOrdersDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\AdminOrderHistiryOrdersDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AdminOrderHistiryOrdersDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\AdminOrderHistiryOrdersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:29:35.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminReqDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AdminReqDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\AdminReqDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AdminReqDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\AdminReqDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:02:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MasterPeace\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MasterPeace\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T13:28:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "02f011ac-a268-40bd-b657-e471c4f45765_image (1).png -  [English (United States)] - PNG [944x992, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\wwwroot\\uploads\\02f011ac-a268-40bd-b657-e471c4f45765_image (1).png",
+              "RelativeDocumentMoniker": "MasterPeace\\wwwroot\\uploads\\02f011ac-a268-40bd-b657-e471c4f45765_image (1).png",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\wwwroot\\uploads\\02f011ac-a268-40bd-b657-e471c4f45765_image (1).png -  [English (United States)] - PNG [944x992, 8 bit, PNG]",
+              "RelativeToolTip": "MasterPeace\\wwwroot\\uploads\\02f011ac-a268-40bd-b657-e471c4f45765_image (1).png -  [English (United States)] - PNG [944x992, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-28T16:00:10.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppointmentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AppointmentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\AppointmentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AppointmentUpdateDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\AppointmentUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:39:37.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Appointment.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:40:00.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreditCardPaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\CreditCardPaymentDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\CreditCardPaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\CreditCardPaymentDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\CreditCardPaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:28:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserResponseDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\UserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:21:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\Models\\Order.cs",
+              "RelativeToolTip": "MasterPeace\\Models\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:45:58.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\ServiceResponseDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\ServiceResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\ServiceResponseDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\ServiceResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:00:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\AppointmentDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\AppointmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:25:09.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserProfileDTOUserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserProfileDTOUserProfileDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\UserProfileDTOUserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserProfileDTOUserProfileDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\UserProfileDTOUserProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:31:15.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DoctorRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\DoctorRequestDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\DoctorRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\DoctorRequestDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\DoctorRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:32:14.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserRequestDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\UserRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserRequestDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\UserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:42:07.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\PaymentDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\PaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:25:42.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserProfileDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\UserProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:54:22.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:06:33.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:20:41.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\UserUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\UserUpdateDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\UserUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:22:20.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\ContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "MasterPeace\\DTOs\\ContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MasterPeace\\MasterPeace\\DTOs\\ContactRequestDTO.cs",
+              "RelativeToolTip": "MasterPeace\\DTOs\\ContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:27:44.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
